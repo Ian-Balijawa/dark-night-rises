@@ -33,7 +33,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "https://e7.pngegg.com/pngimages/465/109/png-clipart-batman-two-face-robin-superhero-the-dark-knight-angle-superhero.png",
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {

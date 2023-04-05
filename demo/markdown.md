@@ -1,6 +1,6 @@
-# Night Owl Theme
+# Dark Night Rises Theme
 
-> Night Owl theme for VS Code.
+> Dark Night Rises theme for VS Code.
 
 ![Preview](images/preview.gif)
 
@@ -12,15 +12,12 @@
 4.  Search for `night-owl`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
-7.  File > Preferences > Color Theme > **Night Owl**
+7.  File > Preferences > Color Theme > **Dark Night Rises**
 
--[ ] check check 12 12
--[ ] check check 12 12
+-[ ] check check 12 12 -[ ] check check 12 12
 
-Heading 1
-========
+# Heading 1
 
-Heading 2
---------------
+## Heading 2
 
 ### Heading 3

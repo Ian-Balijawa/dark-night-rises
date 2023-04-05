@@ -1,18 +1,18 @@
-# Night Owl <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NIzupe_mVZqFlkHMjx2J3X6zxYAMk30EeyJMOcXyZ5FHcIdbzidGCcSdrbh9P1uWC8&usqp=CAU" height="30" width="50"/>
+# Dark Night Rises <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NIzupe_mVZqFlkHMjx2J3X6zxYAMk30EeyJMOcXyZ5FHcIdbzidGCcSdrbh9P1uWC8&usqp=CAU" height="30" width="50"/>
 
 <!-- [![Version](https://vsmarketplacebadge.apphb.com/version/sdras.night-owl.svg)](https://aka.ms/nightowl) -->
 <!-- [![Downloads](https://img.shields.io/vscode-marketplace/r/sdras.night-owl.svg)](https://aka.ms/nightowl) -->
 
-A Visual Studio Code theme for the night owls out there. Fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
+A Visual Studio Code theme for the batman's out there. Fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
 As of 1.0.0, there's a Light Owl Theme too! Color balanced from the Dark version for easy viewing in daylight. 🌅
 
 About this theme, and some of the considerations made while creating it (as well as _how_ to create it should you want to make your own): [https://css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/)
 
-## Night Owl
+## Dark Night Rises
 
 ![First Screen](first-screen.jpg)
-![Night Owl Frameworks](three-dark.jpg)
+![Dark Night Rises Frameworks](three-dark.jpg)
 
 ## Light Owl
 
@@ -27,11 +27,11 @@ About this theme, and some of the considerations made while creating it (as well
 4.  Search for `night owl`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
-7.  From the menu bar click: Code > Preferences > Color Theme > **Night Owl**
+7.  From the menu bar click: Code > Preferences > Color Theme > **Dark Night Rises**
 
 ## Disable Italics
 
-If you wish to disable italics, there is now a no-italic theme available. You will have access to both, select **Night Owl No Italics** as your color theme.
+If you wish to disable italics, there is now a no-italic theme available. You will have access to both, select **Dark Night Rises No Italics** as your color theme.
 
 ## Other versions
 
@@ -80,7 +80,7 @@ This theme uses contrast sparingly so that when it's applied, it's more meaningf
 
 ```
 "workbench.colorCustomizations": {
-  "[Night Owl]": {
+  "[Dark Night Rises]": {
     "activityBar.background": "#000C1D",
     "activityBar.border": "#102a44",
     "editorGroup.border": "#102a44",
@@ -88,7 +88,7 @@ This theme uses contrast sparingly so that when it's applied, it's more meaningf
     "sideBar.border": "#102a44",
     "sideBar.foreground": "#8BADC1"
   },
-  "[Night Owl (No Italics)]": {
+  "[Dark Night Rises (No Italics)]": {
     "activityBar.background": "#000C1D",
     "activityBar.border": "#102a44",
     "editorGroup.border": "#102a44",

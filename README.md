@@ -1,30 +1,36 @@
 # Dark Night Rises <img src="icon.png" height="50" width="50"/>
 
-<!-- [![Version](https://vsmarketplacebadge.apphb.com/version/sdras.night-owl.svg)](https://aka.ms/nightowl) -->
-<!-- [![Downloads](https://img.shields.io/vscode-marketplace/r/sdras.night-owl.svg)](https://aka.ms/nightowl) -->
+<!-- [![Version](https://vsmarketplacebadge.apphb.com/version/sdras.night-dark.svg)](https://aka.ms/nightdark) -->
+<!-- [![Downloads](https://img.shields.io/vscode-marketplace/r/sdras.night-dark.svg)](https://aka.ms/nightdark) -->
 
 A Visual Studio Code theme for the dark nights out there. Fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
-As of 1.0.0, there's a Light Owl Theme too! Color balanced from the Dark version for easy viewing in daylight. 🌅
+As of 1.0.0, there's a Light Dark Theme too! Color balanced from the Dark version for easy viewing in daylight. 🌅
 
 About this theme, and some of the considerations made while creating it (as well as _how_ to create it should you want to make your own): [https://css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/)
 
 ## Dark Night Rises
 
-![First Screen](first-screen.jpg)
-![Dark Night Rises Frameworks](three-dark.jpg)
+![First Screen](js-dark-no-italics.png)
 
-## Light Owl
+## Light No Italics
 
-![First Screen Light](light-owl-full.jpg)
-![Light Owl Frameworks](three-light.jpg)
+![Second Screen](js-dark-italics.png)
+
+## Light No Italics
+
+![Third Screen](js-light-no-italics.png)
+
+## Light Italics
+
+![TFourth Screen](js-light-italics.png)
 
 # Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
 3.  Choose **Extensions** from menu
-4.  Search for `night owl`
+4.  Search for `dark night rises`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
 7.  From the menu bar click: Code > Preferences > Color Theme > **Dark Night Rises**
@@ -39,40 +45,40 @@ The community is awesome and has ported this theme over to other environments.
 
 #### Dark Theme
 
-- Hyper: [https://github.com/pbomb/hyper-night-owl](https://github.com/pbomb/hyper-night-owl)
+- Hyper: [https://github.com/pbomb/hyper-night-dark](https://github.com/pbomb/hyper-night-dark)
 - iTerm2
-  1.  [https://github.com/nickcernis/iterm2-night-owl](https://github.com/nickcernis/iterm2-night-owl)
-  2.  [https://github.com/jsit/night-owl-iterm2-theme](https://github.com/jsit/night-owl-iterm2-theme)
-  3.  [https://github.com/florianeckerstorfer/night-owl-itermcolors](https://github.com/florianeckerstorfer/night-owl-itermcolors)
-  4.  [https://github.com/andrewfluck/night-owl-iterm2](https://github.com/andrewfluck/night-owl-iterm2)
-- Xresources: [https://github.com/alochaus/night-owl-xresources-theme](https://github.com/alochaus/night-owl-xresources-theme)
-- Atom: [https://atom.io/themes/night-owl-vs-code-syntax](https://atom.io/themes/night-owl-vs-code-syntax)
-- Jetbrains: [https://github.com/xdrop/night-owl-jetbrains](https://github.com/xdrop/night-owl-jetbrains)
-- Emacs: [https://github.com/aaronjensen/night-owl-emacs](https://github.com/aaronjensen/night-owl-emacs)
+  1.  [https://github.com/nickcernis/iterm2-night-dark](https://github.com/nickcernis/iterm2-night-dark)
+  2.  [https://github.com/jsit/night-dark-iterm2-theme](https://github.com/jsit/night-dark-iterm2-theme)
+  3.  [https://github.com/florianeckerstorfer/night-dark-itermcolors](https://github.com/florianeckerstorfer/night-dark-itermcolors)
+  4.  [https://github.com/andrewfluck/night-dark-iterm2](https://github.com/andrewfluck/night-dark-iterm2)
+- Xresources: [https://github.com/alochaus/night-dark-xresources-theme](https://github.com/alochaus/night-dark-xresources-theme)
+- Atom: [https://atom.io/themes/night-dark-vs-code-syntax](https://atom.io/themes/night-dark-vs-code-syntax)
+- Jetbrains: [https://github.com/xdrop/night-dark-jetbrains](https://github.com/xdrop/night-dark-jetbrains)
+- Emacs: [https://github.com/aaronjensen/night-dark-emacs](https://github.com/aaronjensen/night-dark-emacs)
 - Vim
-  1. [https://github.com/Khaledgarbaya/night-owl-vim-theme](https://github.com/Khaledgarbaya/night-owl-vim-theme)
-  2. [https://github.com/haishanh/night-owl.vim](https://github.com/haishanh/night-owl.vim)
-- Pygments [https://github.com/liamdawson/nightowl-pygments-style](https://github.com/liamdawson/nightowl-pygments-style)
-- Alfred: [https://github.com/jbharat/night-owl-alfred-theme](https://github.com/jbharat/night-owl-alfred-theme)
-- Ulauncher: [https://github.com/christoph-fricke/ulauncher-night-owl-theme](https://github.com/christoph-fricke/ulauncher-night-owl-theme)
-- TextMate [https://github.com/batpigandme/night-owlish](https://github.com/batpigandme/night-owlish/tree/master/tmTheme)
-- Ace Editor [https://github.com/batpigandme/night-owlish](https://github.com/batpigandme/night-owlish/tree/master/aceTheme)
-- RStudio [https://github.com/batpigandme/night-owlish](https://github.com/batpigandme/night-owlish/tree/master/rstheme)
-- Insomnia [https://github.com/yoannfleurydev/insomnia-plugin-night-owl-theme](https://github.com/yoannfleurydev/insomnia-plugin-night-owl-theme)
-- Sublime Text 3 [https://github.com/VonHeikemen/night-owl-sublime-scheme](https://github.com/VonHeikemen/night-owl-sublime-scheme)
-- Slack [https://github.com/clouby/night-owl-slack](https://github.com/clouby/night-owl-slack)
-- Xcode [https://github.com/stealthanthrax/xcode-Night-Owl](https://github.com/stealthanthrax/xcode-Night-Owl)
-- Visual Studio 2019: [https://github.com/kai-oswald/NightOwl-VS-Theme](https://github.com/kai-oswald/NightOwl-VS-Theme)
-- Prism [https://github.com/SaraVieira/prism-theme-night-owl](https://github.com/SaraVieira/prism-theme-night-owl)
-- Windows Terminal [https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl](https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl)
+  1. [https://github.com/Khaledgarbaya/night-dark-vim-theme](https://github.com/Khaledgarbaya/night-dark-vim-theme)
+  2. [https://github.com/haishanh/night-dark.vim](https://github.com/haishanh/night-dark.vim)
+- Pygments [https://github.com/liamdawson/nightdark-pygments-style](https://github.com/liamdawson/nightdark-pygments-style)
+- Alfred: [https://github.com/jbharat/night-dark-alfred-theme](https://github.com/jbharat/night-dark-alfred-theme)
+- Ulauncher: [https://github.com/christoph-fricke/ulauncher-night-dark-theme](https://github.com/christoph-fricke/ulauncher-night-dark-theme)
+- TextMate [https://github.com/batpigandme/night-darkish](https://github.com/batpigandme/night-darkish/tree/master/tmTheme)
+- Ace Editor [https://github.com/batpigandme/night-darkish](https://github.com/batpigandme/night-darkish/tree/master/aceTheme)
+- RStudio [https://github.com/batpigandme/night-darkish](https://github.com/batpigandme/night-darkish/tree/master/rstheme)
+- Insomnia [https://github.com/yoannfleurydev/insomnia-plugin-night-dark-theme](https://github.com/yoannfleurydev/insomnia-plugin-night-dark-theme)
+- Sublime Text 3 [https://github.com/VonHeikemen/night-dark-sublime-scheme](https://github.com/VonHeikemen/night-dark-sublime-scheme)
+- Slack [https://github.com/clouby/night-dark-slack](https://github.com/clouby/night-dark-slack)
+- Xcode [https://github.com/stealthanthrax/xcode-Night-Dark](https://github.com/stealthanthrax/xcode-Night-Dark)
+- Visual Studio 2019: [https://github.com/kai-oswald/NightDark-VS-Theme](https://github.com/kai-oswald/NightDark-VS-Theme)
+- Prism [https://github.com/SaraVieira/prism-theme-night-dark](https://github.com/SaraVieira/prism-theme-night-dark)
+- Windows Terminal [https://github.com/edurojasr/Windows_Terminal_Theme_Night_Dark](https://github.com/edurojasr/Windows_Terminal_Theme_Night_Dark)
 - Alacritty: [https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty/wiki/Color-schemes)
 
 #### Light Theme
 
-- iTerm2: [https://github.com/fcaldera/night-owl-light-iterm2](https://github.com/fcaldera/night-owl-light-iterm2)
-- Vim: [https://github.com/macguirerintoul/night_owl_light.vim](https://github.com/macguirerintoul/night_owl_light.vim)
-- Tilix: [https://github.com/johanhammar/light-owl-tilix](https://github.com/johanhammar/light-owl-tilix)
-- Alacritty: [https://github.com/nik27/night-owl-alacritty-theme](https://github.com/nik27/night-owl-alacritty-theme)
+- iTerm2: [https://github.com/fcaldera/night-dark-light-iterm2](https://github.com/fcaldera/night-dark-light-iterm2)
+- Vim: [https://github.com/macguirerintoul/night_dark_light.vim](https://github.com/macguirerintoul/night_dark_light.vim)
+- Tilix: [https://github.com/johanhammar/light-dark-tilix](https://github.com/johanhammar/light-dark-tilix)
+- Alacritty: [https://github.com/nik27/night-dark-alacritty-theme](https://github.com/nik27/night-dark-alacritty-theme)
 
 ## Separate the Editor from the Sidebar
 
@@ -120,7 +126,7 @@ I use this setting:
 
 ## Misc
 
-This is my first foray into creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/sdras/night-owl-vscode-theme/issues)! I'm sure there are things I missed.
+This is my first foray into creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/sdras/night-dark-vscode-theme/issues)! I'm sure there are things I missed.
 
 Any relevant changes for each version are documented in the changelog. Please update and check the changelog before filing any issues, as they may have already been taken care of.
 

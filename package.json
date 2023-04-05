@@ -1,8 +1,8 @@
 {
   "name": "dark-night-rises",
   "displayName": "Dark Night Rises",
-  "description": "A VS Code theme for the dark nights out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
-  "version": "0.0.4",
+  "description": "A VS Code theme for the dark nights out there. Now introducing Light Dark theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
+  "version": "0.0.5",
   "publisher": "ianbalijawa",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
@@ -15,13 +15,13 @@
     "Light Theme",
     "Dark Night Rises",
     "Night Theme",
-    "Light Owl",
-    "Snow Owl",
+    "Light Dark",
+    "Snow Dark",
     "Early Bird",
     "Accessible Theme"
   ],
   "scripts": {
-    "pub": "git add . && git commit -m 'patches' && vsce publish"
+    "pub": "git add . && git commit -m 'patches' && vsce publish && git push"
   },
   "galleryBanner": {
     "color": "#061526",

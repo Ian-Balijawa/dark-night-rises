@@ -6,11 +6,11 @@ As of 1.0.0, there's a Light Dark Theme too! Color balanced from the Dark versio
 
 About this theme, and some of the considerations made while creating it (as well as _how_ to create it should you want to make your own): [https://css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/)
 
-## Dark Night Rises
+## Light No Italics
 
 ![First Screen](js-dark-no-italics.png)
 
-## Light No Italics
+## Dark Italics
 
 ![Second Screen](js-dark-italics.png)
 
@@ -123,7 +123,7 @@ I use this setting:
 
 ## Misc
 
-This is my first foray into creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/sdras/night-dark-vscode-theme/issues)! I'm sure there are things I missed.
+This is my first foray into creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/Ian-Balijawa/dark-night-rises/issues)! I'm sure there are things I missed.
 
 Any relevant changes for each version are documented in the changelog. Please update and check the changelog before filing any issues, as they may have already been taken care of.
 

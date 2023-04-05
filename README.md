@@ -1,8 +1,5 @@
 # Dark Night Rises <img src="icon.png" height="50" width="50"/>
 
-<!-- [![Version](https://vsmarketplacebadge.apphb.com/version/sdras.night-dark.svg)](https://aka.ms/nightdark) -->
-<!-- [![Downloads](https://img.shields.io/vscode-marketplace/r/sdras.night-dark.svg)](https://aka.ms/nightdark) -->
-
 A Visual Studio Code theme for the dark nights out there. Fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
 As of 1.0.0, there's a Light Dark Theme too! Color balanced from the Dark version for easy viewing in daylight. 🌅

@@ -1,19 +1,19 @@
 {
-  "name": "night-owl",
-  "displayName": "Night Owl",
+  "name": "dark-night-rises",
+  "displayName": "Dark Night Rises",
   "description": "A VS Code theme for the night owls out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
   "version": "2.0.1",
-  "publisher": "sdras",
+  "publisher": "ianbalijawa",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sdras/night-owl-vscode-theme"
+    "url": "https://github.com/Ian-Balijawa/dark-night-rises.git"
   },
   "keywords": [
     "Theme",
     "Dark Theme",
     "Light Theme",
-    "Night Owl",
+    "Dark Night Rises",
     "Night Theme",
     "Light Owl",
     "Snow Owl",
@@ -21,7 +21,7 @@
     "Accessible Theme"
   ],
   "scripts": {
-    "publish": "vsce publish"
+    "pub": "git add . && git commit -m 'patches' && vsce publish"
   },
   "galleryBanner": {
     "color": "#061526",
@@ -37,7 +37,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Night Owl",
+        "label": "Dark Night Rises",
         "uiTheme": "vs-dark",
         "path": "./themes/Night Owl-color-theme.json"
       },

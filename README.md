@@ -1,7 +1,7 @@
-# Night Owl 🌌
+# Night Owl <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NIzupe_mVZqFlkHMjx2J3X6zxYAMk30EeyJMOcXyZ5FHcIdbzidGCcSdrbh9P1uWC8&usqp=CAU" height="30" width="50"/>
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/sdras.night-owl.svg)](https://aka.ms/nightowl)
-[![Downloads](https://img.shields.io/vscode-marketplace/r/sdras.night-owl.svg)](https://aka.ms/nightowl)
+<!-- [![Version](https://vsmarketplacebadge.apphb.com/version/sdras.night-owl.svg)](https://aka.ms/nightowl) -->
+<!-- [![Downloads](https://img.shields.io/vscode-marketplace/r/sdras.night-owl.svg)](https://aka.ms/nightowl) -->
 
 A Visual Studio Code theme for the night owls out there. Fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
@@ -10,10 +10,12 @@ As of 1.0.0, there's a Light Owl Theme too! Color balanced from the Dark version
 About this theme, and some of the considerations made while creating it (as well as _how_ to create it should you want to make your own): [https://css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/)
 
 ## Night Owl
+
 ![First Screen](first-screen.jpg)
 ![Night Owl Frameworks](three-dark.jpg)
 
 ## Light Owl
+
 ![First Screen Light](light-owl-full.jpg)
 ![Light Owl Frameworks](three-light.jpg)
 
@@ -65,14 +67,12 @@ The community is awesome and has ported this theme over to other environments.
 - Windows Terminal [https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl](https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl)
 - Alacritty: [https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty/wiki/Color-schemes)
 
-
 #### Light Theme
 
 - iTerm2: [https://github.com/fcaldera/night-owl-light-iterm2](https://github.com/fcaldera/night-owl-light-iterm2)
 - Vim: [https://github.com/macguirerintoul/night_owl_light.vim](https://github.com/macguirerintoul/night_owl_light.vim)
 - Tilix: [https://github.com/johanhammar/light-owl-tilix](https://github.com/johanhammar/light-owl-tilix)
 - Alacritty: [https://github.com/nik27/night-owl-alacritty-theme](https://github.com/nik27/night-owl-alacritty-theme)
-
 
 ## Separate the Editor from the Sidebar
 

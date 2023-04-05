@@ -1,4 +1,4 @@
-# Dark Night Rises <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4NIzupe_mVZqFlkHMjx2J3X6zxYAMk30EeyJMOcXyZ5FHcIdbzidGCcSdrbh9P1uWC8&usqp=CAU" height="30" width="50"/>
+# Dark Night Rises <img src="icon.png" height="50" width="50"/>
 
 <!-- [![Version](https://vsmarketplacebadge.apphb.com/version/sdras.night-owl.svg)](https://aka.ms/nightowl) -->
 <!-- [![Downloads](https://img.shields.io/vscode-marketplace/r/sdras.night-owl.svg)](https://aka.ms/nightowl) -->

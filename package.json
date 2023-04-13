@@ -2,7 +2,7 @@
   "name": "dark-night-rises",
   "displayName": "Dark Night Rises",
   "description": "A VS Code theme for the dark nights out there. Now introducing Light Dark theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "publisher": "ianbalijawa",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
@@ -25,7 +25,7 @@
     "Accessible Theme"
   ],
   "scripts": {
-    "pub": "git add . && git commit -m 'patches' && vsce publish && git push"
+    "pub": "git add . && git commit -m patches && vsce publish && git push"
   },
   "galleryBanner": {
     "color": "#061526",
